@@ -1,0 +1,7 @@
+*** Settings ***
+Library           C:/Users/JICHAOSONG/AppData/Local/Programs/Python/Python37/Lib/site-packages/Selenium2Library
+Resource          Resuce.robot
+
+*** Test Cases ***
+case01
+    input_keywords

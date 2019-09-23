@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09a4aeb4-cd0a-454b-9878-fc6edee9400a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Automated_Test$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1550546753307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$Unittests_in_test_baidu_py.coverage" NAME="Unittests in test_baidu.py Coverage Results" MODIFIED="1551147051623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$test.coverage" NAME="test Coverage Results" MODIFIED="1550558865800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$Unittests_for_test_TestDemo.coverage" NAME="Unittests for test.TestDemo Coverage Results" MODIFIED="1550493736228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automated_Test$Unittests_for_test_baidu_TestLogin.coverage" NAME="Unittests for test_baidu.TestLogin Coverage Results" MODIFIED="1551147317563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$imagetobase64.coverage" NAME="imagetobase64 Coverage Results" MODIFIED="1550560891475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$Unittests_for_t_MyTestCase.coverage" NAME="Unittests for t.MyTestCase Coverage Results" MODIFIED="1550495220265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automated_Test$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1550545365197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1550497417209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automated_Test$sendEmail.coverage" NAME="sendEmail Coverage Results" MODIFIED="1550574997598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$run.coverage" NAME="run Coverage Results" MODIFIED="1551149370552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test$Unittests_in_t_py.coverage" NAME="Unittests in t.py Coverage Results" MODIFIED="1550495271315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Automated_Test$Unittests_for_test_TestLogin.coverage" NAME="Unittests for test.TestLogin Coverage Results" MODIFIED="1550545430554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_超级后台_机构管理.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+              <folding>
+                <element signature="e#15#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/organizationPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+              <folding>
+                <element signature="e#190#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HTMLTestRunner</find>
+      <find>#faebcc</find>
+      <find>#d6e9c6</find>
+      <find>font-size</find>
+      <find>测试</find>
+      <find>description</find>
+      <find>heading</find>
+      <find>Test</find>
+      <find>TestLogin</find>
+      <find>failClass</find>
+      <find>tEST</find>
+      <find>result</find>
+      <find>_generate_chart</find>
+      <find>show</find>
+      <find>showTestDetail</find>
+      <find>pie</find>
+      <find>border</find>
+      <find>Pass</find>
+      <find>testChars</find>
+      <find>密码</find>
+      <find>句子</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/debug.py" />
+        <option value="$PROJECT_DIR$/testcase/shibie.py" />
+        <option value="$PROJECT_DIR$/page/personalcentePage.py" />
+        <option value="$PROJECT_DIR$/testcase/Processingcodes.py" />
+        <option value="$PROJECT_DIR$/page/managementPage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_ Manage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_evaluetion.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_login.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_record.py" />
+        <option value="$PROJECT_DIR$/page/homePage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_ manage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_personalcenter.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_manage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_Lǐchéngbèi_home.py" />
+        <option value="$PROJECT_DIR$/page/超级后台/loginPage.py" />
+        <option value="$PROJECT_DIR$/testcase/geckodriver.log" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_Lǐchéngbèi_record.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_Chāojíhòutái_login.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_超级后台_机构管理.py.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_超级后台_管理员管理.py.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_超级后台_角色管理.py.py" />
+        <option value="$PROJECT_DIR$/HTMLTestRunner2.py" />
+        <option value="$PROJECT_DIR$/page/超级后台/rolePage.py" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/page/机构后台-机构管理员/loginPage.py" />
+        <option value="$PROJECT_DIR$/page/超级后台/managerPage.py" />
+        <option value="$PROJECT_DIR$/page/机构管理员/loginPage.py" />
+        <option value="$PROJECT_DIR$/testcase/机构后台-机构管理员/test_机构管理员_登录.py" />
+        <option value="$PROJECT_DIR$/testcase/机构后台-机构管理员/test_机构管理员_修改密码.py" />
+        <option value="$PROJECT_DIR$/page/generator.py" />
+        <option value="$PROJECT_DIR$/page/机构管理员/organizePage.py" />
+        <option value="$PROJECT_DIR$/common/url.py" />
+        <option value="$PROJECT_DIR$/testcase/机构后台-机构管理员/test_机构管理员_项目部管理.py" />
+        <option value="$PROJECT_DIR$/page/超级后台/organizationPage.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_超级后台_机构管理.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_超级后台_登录.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_超级后台_管理员管理.py" />
+        <option value="$PROJECT_DIR$/testcase/超级后台/test_超级后台_角色管理.py" />
+        <option value="$PROJECT_DIR$/testcase/机构后台-项目部管理员/test_项目部管理员_登录.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/testcase/test_超级后台_机构管理.py" />
+        <option value="$PROJECT_DIR$/testcase/test_超级后台_登录.py" />
+        <option value="$PROJECT_DIR$/testcase/test_超级后台_管理员管理.py" />
+        <option value="$PROJECT_DIR$/testcase/test_超级后台_角色管理.py" />
+        <option value="$PROJECT_DIR$/page/rolePage.py" />
+        <option value="$PROJECT_DIR$/page/organizationPage.py" />
+        <option value="$PROJECT_DIR$/page/managerPage.py" />
+        <option value="$PROJECT_DIR$/page/loginPage.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/page/projectPage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_超级后台_项目管理.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObject.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObject.py" type="8704e2dd:PyFileNode" />
+              <item name="PageElement" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="organizationPage.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="test_超级后台_机构管理.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="test_超级后台_机构管理.py" type="8704e2dd:PyFileNode" />
+              <item name="TestOrganization" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="HTMLTestRunner.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="HTMLTestRunner.py" type="8704e2dd:PyFileNode" />
+              <item name="_TestResult" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="run.py" type="8704e2dd:PyFileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/page" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\自动化测试脚本\智慧工地功能自动化\testcase\机构后台项目部管理员" />
+      <recent name="G:\自动化测试脚本\智慧工地功能自动化\testcase\超级后台" />
+      <recent name="D:\githublily\Automated-Test" />
+      <recent name="D:\githublily\Automated-Test\test_case" />
+      <recent name="D:\githublily\Automated-Test\reports" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\自动化测试脚本\智慧工地功能自动化\page" />
+      <recent name="G:\自动化测试脚本\智慧工地功能自动化\testcase" />
+      <recent name="G:\自动化测试脚本\智慧工地功能自动化\testcase\机构后台管理员" />
+      <recent name="G:\自动化测试脚本\智慧工地功能自动化\testcase\超级后台" />
+      <recent name="G:\自动化测试脚本\智慧工地功能自动化\page\项目部管理员" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_超级后台_项目管理.py">
+    <configuration name="test.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/智慧工地功能自动化/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\tmp\test\venv\Scripts\python3.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\tmp\test\venv\Scripts\python3.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\tmp\test\venv\Scripts\python3.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_超级后台_机构管理.TestOrganization.test_新增机构" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/超级后台" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_超级后台_机构管理.TestOrganization.test_新增机构&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_超级后台_登录.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/超级后台" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/超级后台/test_超级后台_登录.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_超级后台_项目管理.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_超级后台_项目管理.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_超级后台_机构管理.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/超级后台" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/超级后台/test_超级后台_机构管理.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_超级后台_角色管理.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Automated-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/超级后台" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/超级后台/test_超级后台_角色管理.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python tests.Unittests for test_超级后台_机构管理.TestOrganization.test_新增机构" />
+      <item itemvalue="Python tests.Unittests in test_超级后台_登录.py" />
+      <item itemvalue="Python tests.Unittests in test_超级后台_项目管理.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_超级后台_项目管理.py" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.Unittests in test_超级后台_登录.py" />
+        <item itemvalue="Python tests.Unittests for test_超级后台_机构管理.TestOrganization.test_新增机构" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a4aeb4-cd0a-454b-9878-fc6edee9400a" name="Default" comment="" />
+      <created>1550480668294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550480668294</updated>
+      <workItem from="1568594108013" duration="127000" />
+      <workItem from="1568594604743" duration="4790000" />
+      <workItem from="1568610423373" duration="57758000" />
+      <workItem from="1568769793606" duration="4868000" />
+      <workItem from="1568774701016" duration="23878000" />
+      <workItem from="1568875834707" duration="17970000" />
+      <workItem from="1568941823729" duration="38786000" />
+      <workItem from="1569201808176" duration="7916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 14m 57s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 15m 47s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 17m 25s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 26m 37s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 27m 40s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 30m 34s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 32m 13s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 33m 48s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 35m 30s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_超级后台_项目管理_py - 2019.09.23 at 14h 38m 20s.xml">
+      <configuration name="Unittests in test_超级后台_项目管理.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156093000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23927039" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32852387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31520534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39844617" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.281909" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32852387" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Random_name.coverage" NAME="Random_name Coverage Results" MODIFIED="1568618087356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Unittests_in_test_baiduSearch_py.coverage" NAME="Unittests in test_Lǐchéngbèi_login.py Coverage Results" MODIFIED="1568622180451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$wifi.coverage" NAME="wifi Coverage Results" MODIFIED="1568690738124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/$Unittests_in_test_Lchéngbèi_record_py.coverage" NAME="Unittests in test_超级后台_机构管理.py.py Coverage Results" MODIFIED="1568884277449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/超级后台" />
+    <SUITE FILE_PATH="coverage/$run.coverage" NAME="run Coverage Results" MODIFIED="1569049055891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$month_age.coverage" NAME="month_age Coverage Results" MODIFIED="1568627633590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1569049010064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Unittests_in_test_Lchéngbèi_home_py.coverage" NAME="Unittests in test_Lǐchéngbèi_home.py Coverage Results" MODIFIED="1568804654850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Unittests_in_test_Lchéngbèi_record_py.coverage" NAME="Unittests in test_Lǐchéngbèi_record.py Coverage Results" MODIFIED="1568710570149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$run.coverage" NAME="run Coverage Results" MODIFIED="1568805456990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/$HTMLTestRunner2.coverage" NAME="HTMLTestRunner2 Coverage Results" MODIFIED="1568892384086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1568892397029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$test.coverage" NAME="test Coverage Results" MODIFIED="1568715755519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Unittests_in_test_Lchéngbèi_evaluetion_py.coverage" NAME="Unittests in test_Lǐchéngbèi_evaluetion.py Coverage Results" MODIFIED="1568714666873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Unittests_in_test_Lchéngbèi_personalcenter_py.coverage" NAME="Unittests in test_Lǐchéngbèi_personalcenter.py Coverage Results" MODIFIED="1568789314337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$shibie.coverage" NAME="shibie Coverage Results" MODIFIED="1568782147465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/$generator.coverage" NAME="generator Coverage Results" MODIFIED="1568971979235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$generator.coverage" NAME="generator Coverage Results" MODIFIED="1568626085716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Unittests_in_test_Lchéngbèi__Manage_py.coverage" NAME="Unittests in test_Lǐchéngbèi_ Manage.py Coverage Results" MODIFIED="1568798993430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/$Unittests_in_test___py_py.coverage" NAME="Unittests in test_超级后台_角色管理.py Coverage Results" MODIFIED="1568894075383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/超级后台" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$Processingcodes.coverage" NAME="Processingcodes Coverage Results" MODIFIED="1568773937346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/$Unittests_in_test___py.coverage" NAME="Unittests in test_超级后台_项目管理.py Coverage Results" MODIFIED="1569220680123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Automated_Test_master$debug.coverage" NAME="debug Coverage Results" MODIFIED="1568778266107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testcase/test_Lǐchéngbèi_evaluetion.py" />
+    <entry file="file://$PROJECT_DIR$/page/homePage.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_Lǐchéngbèi_record.py" />
+    <entry file="file://$PROJECT_DIR$/page/recordPage.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/超级后台/geckodriver.log" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/超级后台/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/page/项目部管理员/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/page/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/机构管理员/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/page/超级后台/rolePage.py" />
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/support/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="783" column="8" selection-start-line="783" selection-start-column="8" selection-end-line="783" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/超级后台/managerPage.py" />
+    <entry file="file://$PROJECT_DIR$/page/机构管理员/loginPage.py" />
+    <entry file="file://$PROJECT_DIR$/page/项目部管理员/loginPage.py" />
+    <entry file="file://$PROJECT_DIR$/common/url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/超级后台/loginPage.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/机构管理员/organizePage.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/超级后台/test_超级后台_机构管理.py" />
+    <entry file="file://$PROJECT_DIR$/page/超级后台/organizationPage.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/超级后台/test_超级后台_管理员管理.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/超级后台/test_超级后台_角色管理.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/机构后台管理员/test_机构管理员_登录.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/机构后台管理员/test_机构管理员_修改密码.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/机构后台管理员/test_机构管理员_项目部管理.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="291" column="12" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-711">
+          <caret line="434" column="6" selection-start-line="434" selection-start-column="6" selection-end-line="434" selection-end-column="6" />
+          <folding>
+            <element signature="e#3350#3360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/机构后台项目部管理员/test_项目部管理员_登录.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/超级后台/test_超级后台_登录.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#189#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/机构后台项目部管理员/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/超级后台/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/机构后台管理员/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="319" column="25" selection-start-line="319" selection-start-column="25" selection-end-line="319" selection-end-column="25" />
+          <folding>
+            <element signature="e#32#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_超级后台_登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/managerPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="47" column="83" selection-start-line="47" selection-start-column="83" selection-end-line="47" selection-end-column="83" />
+          <folding>
+            <element signature="e#190#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_超级后台_管理员管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/rolePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#190#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_超级后台_角色管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/month_age.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pageObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_超级后台_项目管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="927">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/projectPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="96" column="67" lean-forward="true" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_超级后台_机构管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/organizationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="e#190#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
