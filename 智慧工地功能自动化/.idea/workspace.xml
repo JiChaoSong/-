@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09a4aeb4-cd0a-454b-9878-fc6edee9400a" name="Default" comment="" />
+    <list default="true" id="09a4aeb4-cd0a-454b-9878-fc6edee9400a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../工地卫士机构后台功能自动化/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../工地卫士机构后台功能自动化/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../工地卫士机构后台功能自动化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../工地卫士机构后台功能自动化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,25 +30,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testcase/test_超级后台_机构管理.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
               <folding>
                 <element signature="e#15#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/page/organizationPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-              <folding>
-                <element signature="e#190#243#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,7 +78,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -135,16 +128,16 @@
         <option value="$PROJECT_DIR$/testcase/test_超级后台_管理员管理.py" />
         <option value="$PROJECT_DIR$/testcase/test_超级后台_角色管理.py" />
         <option value="$PROJECT_DIR$/page/rolePage.py" />
-        <option value="$PROJECT_DIR$/page/organizationPage.py" />
         <option value="$PROJECT_DIR$/page/managerPage.py" />
         <option value="$PROJECT_DIR$/page/loginPage.py" />
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/page/projectPage.py" />
         <option value="$PROJECT_DIR$/testcase/test_超级后台_项目管理.py" />
+        <option value="$PROJECT_DIR$/page/organizationPage.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -185,35 +178,6 @@
             <path>
               <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
               <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="organizationPage.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
-              <item name="test_超级后台_机构管理.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
-              <item name="test_超级后台_机构管理.py" type="8704e2dd:PyFileNode" />
-              <item name="TestOrganization" type="dd8bbb05:PyElementNode" />
-            </path>
-            <path>
-              <item name="智慧工地功能自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="智慧工地功能自动化" type="462c0819:PsiDirectoryNode" />
               <item name="HTMLTestRunner.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
@@ -241,7 +205,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -271,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_超级后台_项目管理.py">
+  <component name="RunManager" selected="JavaScript Debug.test.html">
     <configuration name="test.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/智慧工地功能自动化/test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -422,11 +386,9 @@
       <item itemvalue="Python.test" />
       <item itemvalue="Python tests.Unittests for test_超级后台_机构管理.TestOrganization.test_新增机构" />
       <item itemvalue="Python tests.Unittests in test_超级后台_登录.py" />
-      <item itemvalue="Python tests.Unittests in test_超级后台_项目管理.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_超级后台_项目管理.py" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python tests.Unittests in test_超级后台_登录.py" />
@@ -452,6 +414,7 @@
       <workItem from="1568875834707" duration="17970000" />
       <workItem from="1568941823729" duration="38786000" />
       <workItem from="1569201808176" duration="7916000" />
+      <workItem from="1569288267531" duration="2076000" />
     </task>
     <servers />
   </component>
@@ -488,12 +451,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156093000" />
+    <option name="totallyTimeSpent" value="158169000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23927039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -518,6 +482,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Automated_Test_master$Random_name.coverage" NAME="Random_name Coverage Results" MODIFIED="1568618087356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
@@ -752,8 +721,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page/projectPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
+        <state relative-caret-position="731">
           <caret line="96" column="67" lean-forward="true" selection-start-line="96" selection-start-column="67" selection-end-line="96" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/organizationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1751">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#190#243#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -763,16 +742,6 @@
           <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
           <folding>
             <element signature="e#15#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/organizationPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-          <folding>
-            <element signature="e#190#243#0" expanded="true" />
           </folding>
         </state>
       </provider>
